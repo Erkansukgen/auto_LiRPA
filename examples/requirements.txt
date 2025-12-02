@@ -10,3 +10,4 @@ tqdm>=4.43
 matplotlib>=3.2
 sortedcontainers>=2.4
 psutil>=5.8
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
